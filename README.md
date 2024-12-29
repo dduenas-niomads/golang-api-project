@@ -1,6 +1,5 @@
-# Golang API demo project
+# Golang simple API project using Gin, Gorm, JWT and PostgreSQL 
 
-Example Golang project using Gin framework. 
 In this project you are going to find:
 
 * Basic routing
@@ -9,7 +8,7 @@ In this project you are going to find:
 * Custom middleware
 * Migrations
 * Project folder structure
-* Basic Crud
+* Basic Crud with GORM
 * Docker environment for database
 
 ## Start
